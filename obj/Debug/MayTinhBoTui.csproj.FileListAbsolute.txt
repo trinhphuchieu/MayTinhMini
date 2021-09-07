@@ -1,0 +1,10 @@
+F:\DAU-STUDY\laptrinhwindow\thuchanh\PhucHieu18CT1_MayTinhBoTui\MayTinhBoTui\bin\Debug\MayTinhBoTui.exe.config
+F:\DAU-STUDY\laptrinhwindow\thuchanh\PhucHieu18CT1_MayTinhBoTui\MayTinhBoTui\bin\Debug\MayTinhBoTui.exe
+F:\DAU-STUDY\laptrinhwindow\thuchanh\PhucHieu18CT1_MayTinhBoTui\MayTinhBoTui\bin\Debug\MayTinhBoTui.pdb
+F:\DAU-STUDY\laptrinhwindow\thuchanh\PhucHieu18CT1_MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.Properties.Resources.resources
+F:\DAU-STUDY\laptrinhwindow\thuchanh\PhucHieu18CT1_MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.csproj.GenerateResource.cache
+F:\DAU-STUDY\laptrinhwindow\thuchanh\PhucHieu18CT1_MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.csproj.CoreCompileInputs.cache
+F:\DAU-STUDY\laptrinhwindow\thuchanh\PhucHieu18CT1_MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.exe
+F:\DAU-STUDY\laptrinhwindow\thuchanh\PhucHieu18CT1_MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.pdb
+F:\DAU-STUDY\laptrinhwindow\thuchanh\PhucHieu18CT1_MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.MayTinh.resources
+F:\DAU-STUDY\laptrinhwindow\thuchanh\PhucHieu18CT1_MayTinhBoTui\MayTinhBoTui\obj\Debug\MayTinhBoTui.csproj.AssemblyReference.cache
