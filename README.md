@@ -1,6 +1,5 @@
-# maytinhmini #caculator #máy tính #casio
 
-Một chiếc máy tính đơn giản..... ^^
+Một chiếc máy tính đơn giản..... 
 
 
 
