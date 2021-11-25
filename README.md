@@ -1,4 +1,4 @@
-#maytinhmini #casiomini
+**#maytinhmini #casiomini**
 
 Một chiếc máy tính đơn giản. :) 
 
