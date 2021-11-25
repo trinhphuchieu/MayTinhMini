@@ -1,4 +1,4 @@
-#maytinhmini #maytinh 
+
 
 Một chiếc máy tính đơn giản. :) 
 
